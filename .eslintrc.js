@@ -10,6 +10,7 @@ module.exports = {
         "no-console": 0,
         "consistent-return": 0,
         "class-methods-use-this": 0,
-        "quotes": ["error", "single", { avoidEscape: true }]
+        "quotes": ["error", "single", { avoidEscape: true }],
+        "arrow-body-style": 0
     }
 };
